@@ -2,7 +2,7 @@
 
 ## Paradise Nursery — Online Plant Shopping Application
 
-Welcome to **Paradise Nursery**, an online plant shopping application built with React. This project allows users to explore a variety of houseplants and add their favorite plants to a shopping cart.
+Welcome to **Paradise Nursery**, an online plant shopping application built with React. This project allows user to explore a variety of houseplants and add their favorite plants to a shopping cart.
 
 ### Features
 
